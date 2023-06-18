@@ -19,7 +19,7 @@
 ### 2.1.4 Hands-on AWS 
 
 ## 2.2 90DayofDevOps
-- Day 1
+- Day 1 ✅
 - Day 2
 
 ## 2.3 Examtopic
