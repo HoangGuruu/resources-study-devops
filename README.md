@@ -16,14 +16,14 @@
 2. ...
 3. 
 
-## 2.1.4 Hands-on AWS 
+### 2.1.4 Hands-on AWS 
 
 ## 2.2 90DayofDevOps
 - Day 1
 - Day 2
 
 ## 2.3 Examtopic
-### 2.5.1 DevOps Engineer Certificated
+### 2.3.1 DevOps Engineer Certificated
 -    1-5 question ✅
 -   5-10 question ✅
 -  10-15 question ✅
