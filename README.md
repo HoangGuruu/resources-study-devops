@@ -3,15 +3,19 @@
 # II. Link of necessary Source I learned
 
 ## 2.1 AWS  
+
 ### 2.1.1 AWS Document for every Service
+
 1. [AWS EC2]()
 2. .......
 
 ### 2.1.2 AWS Skill builder
+
 1. ...
 2. ...
 
 ### 2.1.3 AWS Cloudquest
+
 1. AWS Cloudquest cloud practioner ✅
 2. ...
 3. 
@@ -19,7 +23,9 @@
 ### 2.1.4 Hands-on AWS 
 
 ## 2.2 [90DayofDevOps](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day01.md)
+
 ### 2022
+
 - Day 1 ✅ Let the journey begin 
 - Day 2 ✅ Responsibilities of a DevOps Engineer
 - Day 3 ✅ DevOps Lifecycle - Application Focused
@@ -81,9 +87,12 @@
 - Day 59 
 - Day 60 
 - Day 61 
-- Day 62 
+- Day 62
+  
 ## 2.3 [Examtopic](https://www.examtopics.com/exams/amazon/aws-devops-engineer-professional/view/3/)
+
 ### 2.3.1 [DevOps Engineer Certificated](https://www.examtopics.com/exams/amazon/aws-devops-engineer-professional/view/3/)
+
 -    1-5 question ✅
 -   5-10 question ✅
 -  10-15 question ✅
@@ -93,6 +102,8 @@
 -  30-35 question
 -  35-40 question
 
-## 2.4 Hands-on DevOps ( no find )
+## 2.4 Hands-on DevOps
+
 ### 2.4.1. 20 Lab DevOps Hands-on for exam certificated
-- 1. 
+
+### 2.4.2. Lab AWS Hands-on
