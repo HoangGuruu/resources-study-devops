@@ -40,17 +40,17 @@
 - Day 12  Getting user input with Pointers and a finished program
 - Day 13  Tweet your progress with our new App
 - Day 14 ✅ The Big Picture: DevOps and Linux
-- Day 15 
-- Day 16 
-- Day 17 
-- Day 18 
-- Day 19 
-- Day 20 
-- Day 21 
-- Day 22 
-- Day 23 
-- Day 24 
-- Day 25 
+- Day 15  Linux Commands for DevOps (Actually everyone)
+- Day 16  Managing your Linux System, Filesystem & Storage
+- Day 17  Text Editors - nano vs vim
+- Day 18  SSH & Web Server
+- Day 19  Automate tasks with bash scripts
+- Day 20  Dev workstation setup - All the pretty things
+- Day 21  The Big Picture: DevOps and Networking
+- Day 22  The OSI Model - The 7 Layers
+- Day 23  Network Protocols
+- Day 24  Network Automation
+- Day 25  Python for Network Automation
 - Day 26 
 - Day 27 
 - Day 28 
