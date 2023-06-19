@@ -40,9 +40,9 @@
 - Day 12  Getting user input with Pointers and a finished program
 - Day 13  Tweet your progress with our new App
 - Day 14 ✅ The Big Picture: DevOps and Linux
-- Day 15  Linux Commands for DevOps (Actually everyone)
-- Day 16  Managing your Linux System, Filesystem & Storage
-- Day 17  Text Editors - nano vs vim
+- Day 15 ✅ Linux Commands for DevOps (Actually everyone)
+- Day 16 ✅ Managing your Linux System, Filesystem & Storage
+- Day 17 ✅ Text Editors - nano vs vim
 - Day 18  SSH & Web Server
 - Day 19  Automate tasks with bash scripts
 - Day 20  Dev workstation setup - All the pretty things
