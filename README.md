@@ -106,7 +106,6 @@
 
 ### 2.4.1. 20 Lab DevOps Hands-on for exam certificated
 
-### 2.4.2. Lab AWS Hands-on
 1. AWS CodePipeline( CodeCommit, CodeBuild, CodeDeploy)
 2. AWS Elastic Beanstalk
 3. AWS OpsWork & Chef
@@ -117,3 +116,6 @@
 8. AWS Config & Remediation
 9. AWS CloudTrail works with Amazon CloudWatch
 10. ELB Acess Log & ASG hooks 
+
+### 2.4.2. Lab AWS Hands-on
+
