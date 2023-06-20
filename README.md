@@ -43,10 +43,10 @@
 - Day 15 ✅ Linux Commands for DevOps (Actually everyone)
 - Day 16 ✅ Managing your Linux System, Filesystem & Storage
 - Day 17 ✅ Text Editors - nano vs vim
-- Day 18  SSH & Web Server
-- Day 19  Automate tasks with bash scripts
-- Day 20  Dev workstation setup - All the pretty things
-- Day 21  The Big Picture: DevOps and Networking
+- Day 18 ✅ SSH & Web Server
+- Day 19 ✅ Automate tasks with bash scripts
+- Day 20 ✅ Dev workstation setup - All the pretty things
+- Day 21 ✅ The Big Picture: DevOps and Networking
 - Day 22  The OSI Model - The 7 Layers
 - Day 23  Network Protocols
 - Day 24  Network Automation
@@ -107,3 +107,13 @@
 ### 2.4.1. 20 Lab DevOps Hands-on for exam certificated
 
 ### 2.4.2. Lab AWS Hands-on
+1. AWS CodePipeline( CodeCommit, CodeBuild, CodeDeploy)
+2. AWS Elastic Beanstalk
+3. AWS OpsWork & Chef
+4. CloudWatch EventBridge, Alarm, Logs, AWS Health
+5. CloudWatch Agent ( Custom metrics )
+6. CloudFormation Stacksets, Nested Stack
+7. AWS Systems Manager ( Session Manager , Automation, Patch Manager, Parameter Store)
+8. AWS Config & Remediation
+9. AWS CloudTrail works with Amazon CloudWatch
+10. ELB Acess Log & ASG hooks 
