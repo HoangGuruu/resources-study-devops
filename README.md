@@ -47,34 +47,34 @@
 - Day 19 ✅ Automate tasks with bash scripts
 - Day 20 ✅ Dev workstation setup - All the pretty things
 - Day 21 ✅ The Big Picture: DevOps and Networking
-- Day 22  The OSI Model - The 7 Layers
-- Day 23  Network Protocols
-- Day 24  Network Automation
+- Day 22 ✅ The OSI Model - The 7 Layers
+- Day 23 ✅ Network Protocols
+- Day 24 ✅ Network Automation
 - Day 25  Python for Network Automation
-- Day 26 
-- Day 27 
-- Day 28 
-- Day 29 
-- Day 30 
-- Day 31 
-- Day 32 
-- Day 33 
-- Day 34 
-- Day 35 
-- Day 36 
-- Day 37 
-- Day 38 
-- Day 39 
-- Day 40 
-- Day 41 
-- Day 42 
-- Day 43 
-- Day 44 
-- Day 45 
-- Day 46 
-- Day 47 
-- Day 48 
-- Day 49 
+- Day 26  Building our Lab
+- Day 27  Getting Hands-On with Python & Network
+- Day 28  The Big Picture: DevOps & The Cloud
+- Day 29  Microsoft Azure Fundamentals
+- Day 30  Microsoft Azure Security Models
+- Day 31  Microsoft Azure Compute Models
+- Day 32  Microsoft Azure Storage Models
+- Day 33  Microsoft Azure Networking Models + Azure Management
+- Day 34  Microsoft Azure Hands-On Scenarios
+- Day 35  The Big Picture: Git - Version Control
+- Day 36  Installing & Configuring Git
+- Day 37  Gitting to know Git
+- Day 38  Staging & Changing
+- Day 39  Viewing, unstaging, discarding & restoring
+- Day 40  Social Network for code
+- Day 41  The Open Source Workflow
+- Day 42  The Big Picture: Containers
+- Day 43  What is Docker & Getting installed
+- Day 44  Docker Images & Hands-On with Docker Desktop
+- Day 45  The anatomy of a Docker Image
+- Day 46  Docker Compose
+- Day 47  Docker Networking & Security
+- Day 48  Alternatives to Docker
+- Day 49  The Big Picture: Kubernetes
 - Day 50 
 - Day 51 
 - Day 52 
