@@ -96,8 +96,8 @@
 -    1-5 question ✅
 -   5-10 question ✅
 -  10-15 question ✅
--  15-20 question
--  20-25 question
+-  15-20 question ✅
+-  20-25 question ✅
 -  25-30 question
 -  30-35 question
 -  35-40 question
