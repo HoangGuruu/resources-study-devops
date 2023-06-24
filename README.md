@@ -107,6 +107,7 @@
 ### 2.4.1. 20 Lab DevOps Hands-on for exam certificated
 
 1. AWS CodePipeline( CodeCommit, CodeBuild, CodeDeploy)
+- [Name of project]()
 2. AWS Elastic Beanstalk
 3. AWS OpsWork & Chef
 4. CloudWatch EventBridge, Alarm, Logs, AWS Health
