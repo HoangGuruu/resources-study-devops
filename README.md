@@ -117,5 +117,16 @@
 9. AWS CloudTrail works with Amazon CloudWatch
 10. ELB Acess Log & ASG hooks 
 
+### Basic
+1. IAM Role
+2. AWS Organization & SCP
+3. Amazon Route 53 Routing Policies ( Weighted, Latency, Failover, Geolocation,...)
+4. Tagging AWS
+5. AWS Trusted Advisor, Amazon GuarDuty, Amazon Inspector
+6. ECS , ECR
+7. Amazon API Gateway, AWS Lambda
+8. Amazon S3 ( Lifecycle, Encryption, Public/Private bucket)
+9. Amazon RDS ( Aurora Global DB, RDS Multi-AZ) & Amazon DynamoDB ( Global Table, PK/SK Design )
+10. AWS Secret Manager
 ### 2.4.2. Lab AWS Hands-on
 
