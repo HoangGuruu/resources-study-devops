@@ -130,3 +130,26 @@
 10. AWS Secret Manager
 ### 2.4.2. Lab AWS Hands-on
 
+### Medium
+1. Hosted static website with Amaxon S3
+2. Build website with Amazon EC2
+3. File sharing with Aamzon EC2 and EFS
+4. Auto Scaling application with ELB ,EC2
+5. Build a website with AWS Elastic Beanstalk
+6. Build mobile and web application with AWS Amplify
+7. Using CloudFormation to launch Aamzon EC2 Website
+8. Build micro-services with ECS , EKS
+9. Build a cron job with CloudWatch Event & Lambda
+10. Run a Wordpress website on AWS with Lightsail
+
+### Advanced
+1. Build Simple Serverless Architect ( API Gateway , Lambda, Cognito, DynamoDB)
+2. Build CI/CD pipeline with AWS Codepipeline
+3. Train anf Deploy a machine learning model using Amazon SageMaker
+4. Provision Amazon EC2 , RDS , ELB , Networking with CDK
+5. Converting images on Amazon S3 with Lambda Trigger
+6. Celebrities Recognition with Amazon Recognition
+7. Automate EC2 at scale with AWS System Manager
+8. Amazon Route 53 Routing Policy Website Hands-on
+9. Build an application with CloudFront, S3, Route53, ACM
+10. Run a Wordpress website on AWS with decoupling & best practices
