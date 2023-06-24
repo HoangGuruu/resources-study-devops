@@ -118,12 +118,12 @@
 10. ELB Acess Log & ASG hooks 
 
 ### Basic
-1. IAM Role
+1. [IAM Role](https://www.youtube.com/watch?v=u8bjfyUT1eQ&list=PL4NoNM0L1m72rjn5s7VzKnaqEK7UTpeGa&index=1&t=0s)
 2. AWS Organization & SCP
 3. Amazon Route 53 Routing Policies ( Weighted, Latency, Failover, Geolocation,...)
 4. Tagging AWS
 5. AWS Trusted Advisor, Amazon GuarDuty, Amazon Inspector
-6. ECS , ECR
+6. [ECS , ECR](https://www.youtube.com/watch?v=mDvON-Sv2sg&list=PL4NoNM0L1m70lB1qL6sJ9Xr43PVbua3u2)
 7. Amazon API Gateway, AWS Lambda
 8. Amazon S3 ( Lifecycle, Encryption, Public/Private bucket)
 9. Amazon RDS ( Aurora Global DB, RDS Multi-AZ) & Amazon DynamoDB ( Global Table, PK/SK Design )
