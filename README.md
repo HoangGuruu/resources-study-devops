@@ -60,12 +60,12 @@
 - Day 32  Microsoft Azure Storage Models
 - Day 33  Microsoft Azure Networking Models + Azure Management
 - Day 34  Microsoft Azure Hands-On Scenarios
-- Day 35  The Big Picture: Git - Version Control
-- Day 36  Installing & Configuring Git
-- Day 37  Gitting to know Git
-- Day 38  Staging & Changing
-- Day 39  Viewing, unstaging, discarding & restoring
-- Day 40  Social Network for code
+- Day 35 ✅ The Big Picture: Git - Version Control
+- Day 36 ✅ Installing & Configuring Git
+- Day 37 ✅ Gitting to know Git
+- Day 38 ✅ Staging & Changing
+- Day 39 ✅ Viewing, unstaging, discarding & restoring
+- Day 40 ✅ Social Network for code
 - Day 41  The Open Source Workflow
 - Day 42  The Big Picture: Containers
 - Day 43  What is Docker & Getting installed
