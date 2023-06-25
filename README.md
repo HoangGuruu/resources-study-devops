@@ -131,7 +131,7 @@
 5. AWS Trusted Advisor, Amazon GuarDuty, Amazon Inspector
 6. ECS , ECR
   - [AWS ECS & Fargate for Beginners in 15 Steps - STACKSIMPLIFY](https://courses.stacksimplify.com/courses/enrolled/1113575)
-      Learn ECR, AppMesh, X-Ray, ALB, CodePipeline, CodeBuild, CodeCommit, CloudMap, CFN, Docker and Microservices Deployments
+    Learn ECR, AppMesh, X-Ray, ALB, CodePipeline, CodeBuild, CodeCommit, CloudMap, CFN, Docker and Microservices Deployments
   - [List Video ECS , ECR - VietAWS](https://www.youtube.com/watch?v=mDvON-Sv2sg&list=PL4NoNM0L1m70lB1qL6sJ9Xr43PVbua3u2)
 7. Amazon API Gateway, AWS Lambda
 8. Amazon S3 ( Lifecycle, Encryption, Public/Private bucket)
