@@ -113,22 +113,35 @@
 4. CloudWatch EventBridge, Alarm, Logs, AWS Health
 5. CloudWatch Agent ( Custom metrics )
 6. CloudFormation Stacksets, Nested Stack
+  - [Master AWS CloudFormation Templates using YAML](https://courses.stacksimplify.com/courses/1114628/lectures/23871151)
 7. AWS Systems Manager ( Session Manager , Automation, Patch Manager, Parameter Store)
 8. AWS Config & Remediation
 9. AWS CloudTrail works with Amazon CloudWatch
 10. ELB Acess Log & ASG hooks 
 
 ### Basic
-1. [IAM Role](https://www.youtube.com/watch?v=u8bjfyUT1eQ&list=PL4NoNM0L1m72rjn5s7VzKnaqEK7UTpeGa&index=1&t=0s)
+1. IAM Role
+  - [List video IAM Role - VietAWS](https://www.youtube.com/watch?v=u8bjfyUT1eQ&list=PL4NoNM0L1m72rjn5s7VzKnaqEK7UTpeGa&index=1&t=0s)
 2. AWS Organization & SCP
+  - [List video IAM Role - VietAWS](https://www.youtube.com/watch?v=u8bjfyUT1eQ&list=PL4NoNM0L1m72rjn5s7VzKnaqEK7UTpeGa&index=1&t=0s)
 3. Amazon Route 53 Routing Policies ( Weighted, Latency, Failover, Geolocation,...)
 4. Tagging AWS
+  - [List video IAM Role - VietAWS](https://www.youtube.com/watch?v=u8bjfyUT1eQ&list=PL4NoNM0L1m72rjn5s7VzKnaqEK7UTpeGa&index=1&t=0s)
 5. AWS Trusted Advisor, Amazon GuarDuty, Amazon Inspector
-6. [ECS , ECR](https://www.youtube.com/watch?v=mDvON-Sv2sg&list=PL4NoNM0L1m70lB1qL6sJ9Xr43PVbua3u2)
+6. ECS , ECR
+  - [AWS ECS & Fargate for Beginners in 15 Steps - STACKSIMPLIFY](https://courses.stacksimplify.com/courses/enrolled/1113575)
+      Learn ECR, AppMesh, X-Ray, ALB, CodePipeline, CodeBuild, CodeCommit, CloudMap, CFN, Docker and Microservices Deployments
+  - [List Video ECS , ECR - VietAWS](https://www.youtube.com/watch?v=mDvON-Sv2sg&list=PL4NoNM0L1m70lB1qL6sJ9Xr43PVbua3u2)
 7. Amazon API Gateway, AWS Lambda
 8. Amazon S3 ( Lifecycle, Encryption, Public/Private bucket)
 9. Amazon RDS ( Aurora Global DB, RDS Multi-AZ) & Amazon DynamoDB ( Global Table, PK/SK Design )
 10. AWS Secret Manager
+
+### Tool for DevOps
+1. [Docker for Absolute Beginners - STACKSIMPLIFY](https://courses.stacksimplify.com/p/docker-for-absolute-beginners)
+2. [Kubernetes for Absolute Beginners on AWS EKS - STACKSIMPLIFY](https://courses.stacksimplify.com/p/kubernetes-for-absolute-beginners-on-aws-eks)
+3. [AWS VPC Transit Gateway Hands On Learning - STACKSIMPLIFY](https://courses.stacksimplify.com/p/aws-vpc-transit-gateway)
+
 ### 2.4.2. Lab AWS Hands-on
 
 ### Medium
@@ -154,3 +167,7 @@
 8. Amazon Route 53 Routing Policy Website Hands-on
 9. Build an application with CloudFront, S3, Route53, ACM
 10. Run a Wordpress website on AWS with decoupling & best practices
+
+# II. AWS Certified DevOps Engineer Professional 2023 - DOP-C02 - Udemy
+
+
