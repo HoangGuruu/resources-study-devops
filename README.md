@@ -11,7 +11,7 @@
 
 ### 2.1.2 AWS Skill builder
 
-1. ...
+1. [Exam Readiness: AWS Certified DevOps Engineer – Professional](https://explore.skillbuilder.aws/learn/course/74/play/498/exam-readiness-aws-certified-devops-engineer-professional;lp=85)
 2. ...
 
 ### 2.1.3 AWS Cloudquest
@@ -20,7 +20,8 @@
 2. ...
 3. 
 
-### 2.1.4 Hands-on AWS 
+### 2.1.4 Coursera AWS 
+1. [DevOps on AWS](https://www.coursera.org/specializations/aws-devops)
 
 ## 2.2 [90DayofDevOps](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day01.md)
 
