@@ -108,7 +108,8 @@
 ### 2.4.1. 20 Lab DevOps Hands-on for exam certificated
 
 1. AWS CodePipeline( CodeCommit, CodeBuild, CodeDeploy)
-- [Name of project]()
+   - Source
+    + [Name of project]()
 2. AWS Elastic Beanstalk
 3. AWS OpsWork & Chef
 4. CloudWatch EventBridge, Alarm, Logs, AWS Health
@@ -122,12 +123,12 @@
 
 ### Basic
 1. IAM Role
-  - [List video IAM Role - VietAWS](https://www.youtube.com/watch?v=u8bjfyUT1eQ&list=PL4NoNM0L1m72rjn5s7VzKnaqEK7UTpeGa&index=1&t=0s)
+  - ✅ [List video IAM Role - VietAWS](https://www.youtube.com/watch?v=u8bjfyUT1eQ&list=PL4NoNM0L1m72rjn5s7VzKnaqEK7UTpeGa&index=1&t=0s)
 2. AWS Organization & SCP
-  - [List video IAM Role - VietAWS](https://www.youtube.com/watch?v=u8bjfyUT1eQ&list=PL4NoNM0L1m72rjn5s7VzKnaqEK7UTpeGa&index=1&t=0s)
+  - ✅ [List video IAM Role - VietAWS](https://www.youtube.com/watch?v=u8bjfyUT1eQ&list=PL4NoNM0L1m72rjn5s7VzKnaqEK7UTpeGa&index=1&t=0s)
 3. Amazon Route 53 Routing Policies ( Weighted, Latency, Failover, Geolocation,...)
 4. Tagging AWS
-  - [List video IAM Role - VietAWS](https://www.youtube.com/watch?v=u8bjfyUT1eQ&list=PL4NoNM0L1m72rjn5s7VzKnaqEK7UTpeGa&index=1&t=0s)
+  - ✅ [List video IAM Role - VietAWS](https://www.youtube.com/watch?v=u8bjfyUT1eQ&list=PL4NoNM0L1m72rjn5s7VzKnaqEK7UTpeGa&index=1&t=0s)
 5. AWS Trusted Advisor, Amazon GuarDuty, Amazon Inspector
 6. ECS , ECR
   - [AWS ECS & Fargate for Beginners in 15 Steps - STACKSIMPLIFY](https://courses.stacksimplify.com/courses/enrolled/1113575)
@@ -142,6 +143,8 @@
 1. [Docker for Absolute Beginners - STACKSIMPLIFY](https://courses.stacksimplify.com/p/docker-for-absolute-beginners)
 2. [Kubernetes for Absolute Beginners on AWS EKS - STACKSIMPLIFY](https://courses.stacksimplify.com/p/kubernetes-for-absolute-beginners-on-aws-eks)
 3. [AWS VPC Transit Gateway Hands On Learning - STACKSIMPLIFY](https://courses.stacksimplify.com/p/aws-vpc-transit-gateway)
+4. Ansible
+5. Terraform
 
 ### 2.4.2. Lab AWS Hands-on
 
@@ -170,5 +173,36 @@
 10. Run a Wordpress website on AWS with decoupling & best practices
 
 # II. AWS Certified DevOps Engineer Professional 2023 - DOP-C02 - Udemy
+1. Course Overview
+
+2. Code&Slides Download
+
+3. Domain 1: SDLC Automation
+
+4. Domain 2: Configuration Management and Infrastructure as Code
+
+5. Domain 3: Resilient Cloud Solutions
+
+6. Domain 4: Monitoring and Logging
+
+7. Domain 5: Incident and Event Response
+
+8. Domain 6: Security and Compliance
+
+9. Other Services
+
+10. Domain 1 - OLD: SDLC Automation
+
+11. Domain 2 - OLD: Configuration Management and Infrastructure as Code
+
+12. Domain 3 - OLD: Monitoring and Logging
+
+13. Domain 4 - OLD: Policies and Standards Automation
+
+14. Domain 5 - OLD: Incident and Event Response
+
+15. Domain 6 - OLD: High Availability, Fault Tolerance, and Disaster Recovery
+
+16. Other Services
 
 
