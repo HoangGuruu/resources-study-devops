@@ -115,7 +115,7 @@
 4. CloudWatch EventBridge, Alarm, Logs, AWS Health
 5. CloudWatch Agent ( Custom metrics )
 6. CloudFormation Stacksets, Nested Stack
-  - [Master AWS CloudFormation Templates using YAML](https://courses.stacksimplify.com/courses/1114628/lectures/23871151)
+  - [Master AWS CloudFormation Templates using YAML - STACKSIMPLIFY](https://courses.stacksimplify.com/courses/1114628/lectures/23871151)
 7. AWS Systems Manager ( Session Manager , Automation, Patch Manager, Parameter Store)
 8. AWS Config & Remediation
 9. AWS CloudTrail works with Amazon CloudWatch
