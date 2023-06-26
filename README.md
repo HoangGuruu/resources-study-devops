@@ -68,14 +68,14 @@
 - Day 39 ✅ Viewing, unstaging, discarding & restoring
 - Day 40 ✅ Social Network for code
 - Day 41 ✅ The Open Source Workflow
-- Day 42  The Big Picture: Containers
-- Day 43  What is Docker & Getting installed
-- Day 44  Docker Images & Hands-On with Docker Desktop
-- Day 45  The anatomy of a Docker Image
-- Day 46  Docker Compose
-- Day 47  Docker Networking & Security
-- Day 48  Alternatives to Docker
-- Day 49  The Big Picture: Kubernetes
+- Day 42 ✅ The Big Picture: Containers
+- Day 43 ✅ What is Docker & Getting installed
+- Day 44 ✅ Docker Images & Hands-On with Docker Desktop
+- Day 45 ✅ The anatomy of a Docker Image
+- Day 46 ✅ Docker Compose
+- Day 47 ✅ Docker Networking & Security
+- Day 48 ✅ Alternatives to Docker
+- Day 49 ✅ The Big Picture: Kubernetes
 - Day 50 
 - Day 51 
 - Day 52 
