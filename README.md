@@ -179,7 +179,7 @@
 
 3. Domain 1: SDLC Automation
 
-✅[DVA] Introduction to CICD in AWS
+-✅[DVA] Introduction to CICD in AWS
 ✅[DVA] CodeCommit - Overview
 ✅[DVA] CodeCommit - Hands On Part 1
 ✅[DVA] CodeCommit - Hands On Part 2
