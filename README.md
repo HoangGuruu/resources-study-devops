@@ -179,6 +179,35 @@
 
 3. Domain 1: SDLC Automation
 
+✅[DVA] Introduction to CICD in AWS
+✅[DVA] CodeCommit - Overview
+✅[DVA] CodeCommit - Hands On Part 1
+✅[DVA] CodeCommit - Hands On Part 2
+✅CodeCommit - Advanced
+✅[DVA] CodePipeline - Overview
+✅[DVA] CodePipeline - Hands On
+✅[DVA] CodePipeline - Extras
+✅CodePipeline - CloudFormation Integration
+✅CodePipeline - Advanced
+✅[DVA] CodeBuild - Overview
+✅[DVA] CodeBuild - Hands On Part 1
+✅[DVA] CodeBuild - Hands On Part 2
+✅CodeBuild - Advanced
+✅[DVA] CodeDeploy - Overview
+✅CodeDeploy - EC2 Deep Dive
+✅CodeDeploy - ECS Deep Dive
+✅CodeDeploy - Lambda Deep Dive
+✅CodeDeploy - Rollbacks & Troubleshooting
+✅[DVA] CodeArtifact - Overview
+✅[DVA] CodeArtifact - Upstream Repositories & Domains
+✅[DVA] CodeArtifact - Hands On
+✅[DVA] CodeGuru - Overview
+✅CodeGuru - Extras
+EC2 Image Builder
+EC2 Image Builder - Extras
+[SOA] AWS Amplify
+AWS Amplify - Extras
+
 4. Domain 2: Configuration Management and Infrastructure as Code
 
 5. Domain 3: Resilient Cloud Solutions
