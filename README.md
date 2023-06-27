@@ -179,113 +179,113 @@
 
 3. Domain 1: SDLC Automation
 
--✅[DVA] Introduction to CICD in AWS
-✅[DVA] CodeCommit - Overview
-✅[DVA] CodeCommit - Hands On Part 1
-✅[DVA] CodeCommit - Hands On Part 2
-✅CodeCommit - Advanced
-✅[DVA] CodePipeline - Overview
-✅[DVA] CodePipeline - Hands On
-✅[DVA] CodePipeline - Extras
-✅CodePipeline - CloudFormation Integration
-✅CodePipeline - Advanced
-✅[DVA] CodeBuild - Overview
-✅[DVA] CodeBuild - Hands On Part 1
-✅[DVA] CodeBuild - Hands On Part 2
-✅CodeBuild - Advanced
-✅[DVA] CodeDeploy - Overview
-✅CodeDeploy - EC2 Deep Dive
-✅CodeDeploy - ECS Deep Dive
-✅CodeDeploy - Lambda Deep Dive
-✅CodeDeploy - Rollbacks & Troubleshooting
-✅[DVA] CodeArtifact - Overview
-✅[DVA] CodeArtifact - Upstream Repositories & Domains
-✅[DVA] CodeArtifact - Hands On
-✅[DVA] CodeGuru - Overview
-✅CodeGuru - Extras
-✅EC2 Image Builder
-✅EC2 Image Builder - Extras
-✅[SOA] AWS Amplify
-✅AWS Amplify - Extras
+- ✅[DVA] Introduction to CICD in AWS
+- ✅[DVA] CodeCommit - Overview
+- ✅[DVA] CodeCommit - Hands On Part 1
+- ✅[DVA] CodeCommit - Hands On Part 2
+- ✅CodeCommit - Advanced
+- ✅[DVA] CodePipeline - Overview
+- ✅[DVA] CodePipeline - Hands On
+- ✅[DVA] CodePipeline - Extras
+- ✅CodePipeline - CloudFormation Integration
+- ✅CodePipeline - Advanced
+- ✅[DVA] CodeBuild - Overview
+- ✅[DVA] CodeBuild - Hands On Part 1
+- ✅[DVA] CodeBuild - Hands On Part 2
+- ✅CodeBuild - Advanced
+- ✅[DVA] CodeDeploy - Overview
+- ✅CodeDeploy - EC2 Deep Dive
+- ✅CodeDeploy - ECS Deep Dive
+- ✅CodeDeploy - Lambda Deep Dive
+- ✅CodeDeploy - Rollbacks & Troubleshooting
+- ✅[DVA] CodeArtifact - Overview
+- ✅[DVA] CodeArtifact - Upstream Repositories & Domains
+- ✅[DVA] CodeArtifact - Hands On
+- ✅[DVA] CodeGuru - Overview
+- ✅CodeGuru - Extras
+- ✅EC2 Image Builder
+- ✅EC2 Image Builder - Extras
+- ✅[SOA] AWS Amplify
+- ✅AWS Amplify - Extras
 
 4. Domain 2: Configuration Management and Infrastructure as Code
 
-CloudFormation - Overview
-CloudFormation - Create Stack Hands On
-CloudFormation - Update & Delete Stack Hands On
-YAML Crash Course
-CloudFormation - Resources
-CloudFormation - Parameters
-CloudFormation - Mappings
-CloudFormation - Outputs
-CloudFormation - Conditions
-CloudFormation - Intrinsic Functions
-CloudFormation - Rollbacks
-CloudFormation - Drift
-CloudFormation - Stack Policies
-CloudFormation - Nested Stacks
-CloudFormation - ChangeSets
-CloudFormation - DeletionPolicy
-CloudFormation - Termination Protection
-CloudFormation - EC2 User Data
-CloudFormation - CFN Init Overview
-CloudFormation - CFN Init Scripts
-CloudFormation - CFN Init Hands On
-[SOA] CloudFormation - Continue Rolling Back an Update
-CloudFormation - Custom Resources Overview
-CloudFormation - Custom Resources with AWS Lambda
+- CloudFormation - Overview
+- CloudFormation - Create Stack Hands On
+- CloudFormation - Update & Delete Stack Hands On
+- YAML Crash Course
+- CloudFormation - Resources
+- CloudFormation - Parameters
+- CloudFormation - Mappings
+- CloudFormation - Outputs
+- CloudFormation - Conditions
+- CloudFormation - Intrinsic Functions
+- CloudFormation - Rollbacks
+- CloudFormation - Drift
+- CloudFormation - Stack Policies
+- CloudFormation - Nested Stacks
+- CloudFormation - ChangeSets
+- CloudFormation - DeletionPolicy
+- CloudFormation - Termination Protection
+- CloudFormation - EC2 User Data
+- CloudFormation - CFN Init Overview
+- CloudFormation - CFN Init Scripts
+- CloudFormation - CFN Init Hands On
+- [SOA] CloudFormation - Continue Rolling Back an Update
+- CloudFormation - Custom Resources Overview
+- CloudFormation - Custom Resources with AWS Lambda
 ====== NOTE ======
-CloudFormation - Service Role
-CloudFormation - SSM Parameters
-CloudFormation - SSM Parameters Hands On
-CloudFormation - Dynamic References
-CloudFormation - Dynamic References Hands On
-CloudFormation - StackSets
-CloudFormation - StackSets Hands On
-CloudFormation - StackSets Updates Hands On
-CloudFormation - StackSets Drift
-CloudFormation - StackSets Delete Hands On
-Service Catalog - Overview
-Service Catalog - Extras
-Elastic Beanstalk - Overview
-Elastic Beanstalk - Hands On
-Elastic Beanstalk - High Availability Environment
-Elastic Beanstalk - Deployment Modes
-Elastic Beanstalk - Deployment Modes Hands On
-Elastic Beanstalk - Extras
-Serverless Application Model (SAM) - Overview
-Serverless Application Model (SAM) with CodeDeploy
-Cloud Development Kit (CDK) - Overview
-Cloud Development Kit (CDK) - Hands On
-Step Functions - Overview
-Step Functions - Hands On
-AppConfig - Overview
-Systems Manager (SSM) - Overview
-Start EC2 Instances with SSM Agent - Hands On
-AWS Tags & SSM Resource Groups
-SSM Documents & SSM Run Command
-SSM Automations
-SSM Parameter Store
-SSM Parameter Store - Hands On
-SSM Patch Manager and Maintenance Windows
-SSM Patch Manager and Maintenance Windows - Hands On
-SSM Session Manager
-SSM Session Manager - Hands On
-SSM Cleanup
-SSM Default Host Management Configuration (DHMC)
-SSM Default Host Management Configuration (DHMC) - Hands On
-SSM Hybrid Environments
-SSM Hybrid Environments - Hands On
-SSM with IoT Greengrass
-SSM Automations - Use Cases
-SSM Compliance
-SSM OpsCenter
-SSM Session Manager with VPC Endpoints
-AWS OpsWorks - Getting Started Part 1
-AWS OpsWorks - Getting Started Part 2
-AWS OpsWorks - Lifecycle Events
-AWS OpsWorks - CloudWatch Events Integration
-AWS OpsWorks - Summary & Cleanup
+- CloudFormation - Service Role
+- CloudFormation - SSM Parameters
+- CloudFormation - SSM Parameters Hands On
+- CloudFormation - Dynamic References
+- CloudFormation - Dynamic References Hands On
+- CloudFormation - StackSets
+- CloudFormation - StackSets Hands On
+- CloudFormation - StackSets Updates Hands On
+- CloudFormation - StackSets Drift
+- CloudFormation - StackSets Delete Hands On
+- Service Catalog - Overview
+- Service Catalog - Extras
+- Elastic Beanstalk - Overview
+- Elastic Beanstalk - Hands On
+- Elastic Beanstalk - High Availability Environment
+- Elastic Beanstalk - Deployment Modes
+- Elastic Beanstalk - Deployment Modes Hands On
+- Elastic Beanstalk - Extras
+- Serverless Application Model (SAM) - Overview
+- Serverless Application Model (SAM) with CodeDeploy
+- Cloud Development Kit (CDK) - Overview
+- Cloud Development Kit (CDK) - Hands On
+- Step Functions - Overview
+- Step Functions - Hands On
+- AppConfig - Overview
+- Systems Manager (SSM) - Overview
+- Start EC2 Instances with SSM Agent - Hands On
+- AWS Tags & SSM Resource Groups
+- SSM Documents & SSM Run Command
+- SSM Automations
+- SSM Parameter Store
+- SSM Parameter Store - Hands On
+- SSM Patch Manager and Maintenance Windows
+- SSM Patch Manager and Maintenance Windows - Hands On
+- SSM Session Manager
+- SSM Session Manager - Hands On
+- SSM Cleanup
+- SSM Default Host Management Configuration (DHMC)
+- SSM Default Host Management Configuration (DHMC) - Hands On
+- SSM Hybrid Environments
+- SSM Hybrid Environments - Hands On
+- SSM with IoT Greengrass
+- SSM Automations - Use Cases
+- SSM Compliance
+- SSM OpsCenter
+- SSM Session Manager with VPC Endpoints
+- AWS OpsWorks - Getting Started Part 1
+- AWS OpsWorks - Getting Started Part 2
+- AWS OpsWorks - Lifecycle Events
+- AWS OpsWorks - CloudWatch Events Integration
+- AWS OpsWorks - Summary & Cleanup
 
 6. Domain 3: Resilient Cloud Solutions
 
