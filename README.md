@@ -23,6 +23,8 @@
 ### 2.1.4 Coursera AWS 
 1. [DevOps on AWS](https://www.coursera.org/specializations/aws-devops)
 
+### 2.1.5 [AWS WorkShop](https://workshops.aws/)
+
 ## 2.2 [90DayofDevOps](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day01.md)
 
 ### 2022
