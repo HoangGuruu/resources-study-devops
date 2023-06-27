@@ -179,29 +179,29 @@
 
 3. Domain 1: SDLC Automation
 
-- ✅[DVA] Introduction to CICD in AWS
-- ✅[DVA] CodeCommit - Overview
-- ✅[DVA] CodeCommit - Hands On Part 1
-- ✅[DVA] CodeCommit - Hands On Part 2
+- ✅Introduction to CICD in AWS
+- ✅CodeCommit - Overview
+- ✅CodeCommit - Hands On Part 1
+- ✅CodeCommit - Hands On Part 2
 - ✅CodeCommit - Advanced
-- ✅[DVA] CodePipeline - Overview
-- ✅[DVA] CodePipeline - Hands On
-- ✅[DVA] CodePipeline - Extras
+- ✅CodePipeline - Overview
+- ✅CodePipeline - Hands On
+- ✅CodePipeline - Extras
 - ✅CodePipeline - CloudFormation Integration
 - ✅CodePipeline - Advanced
-- ✅[DVA] CodeBuild - Overview
-- ✅[DVA] CodeBuild - Hands On Part 1
-- ✅[DVA] CodeBuild - Hands On Part 2
+- ✅CodeBuild - Overview
+- ✅CodeBuild - Hands On Part 1
+- ✅CodeBuild - Hands On Part 2
 - ✅CodeBuild - Advanced
-- ✅[DVA] CodeDeploy - Overview
+- ✅CodeDeploy - Overview
 - ✅CodeDeploy - EC2 Deep Dive
 - ✅CodeDeploy - ECS Deep Dive
 - ✅CodeDeploy - Lambda Deep Dive
 - ✅CodeDeploy - Rollbacks & Troubleshooting
-- ✅[DVA] CodeArtifact - Overview
-- ✅[DVA] CodeArtifact - Upstream Repositories & Domains
-- ✅[DVA] CodeArtifact - Hands On
-- ✅[DVA] CodeGuru - Overview
+- ✅CodeArtifact - Overview
+- ✅CodeArtifact - Upstream Repositories & Domains
+- ✅CodeArtifact - Hands On
+- ✅CodeGuru - Overview
 - ✅CodeGuru - Extras
 - ✅EC2 Image Builder
 - ✅EC2 Image Builder - Extras
@@ -231,7 +231,7 @@
 - CloudFormation - CFN Init Overview
 - CloudFormation - CFN Init Scripts
 - CloudFormation - CFN Init Hands On
-- [SOA] CloudFormation - Continue Rolling Back an Update
+- CloudFormation - Continue Rolling Back an Update
 - CloudFormation - Custom Resources Overview
 - CloudFormation - Custom Resources with AWS Lambda
 ====== NOTE ======
