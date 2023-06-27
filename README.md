@@ -25,6 +25,8 @@
 
 ### 2.1.5 [AWS WorkShop](https://workshops.aws/)
 
+1. [AWS CloudFormation Workshop](https://catalog.workshops.aws/cfn101/en-US/prerequisites/local-development)
+
 ## 2.2 [90DayofDevOps](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day01.md)
 
 ### 2022
