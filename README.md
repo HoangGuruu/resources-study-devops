@@ -120,6 +120,7 @@
 5. CloudWatch Agent ( Custom metrics )
 6. CloudFormation Stacksets, Nested Stack
   - [Master AWS CloudFormation Templates using YAML - STACKSIMPLIFY](https://courses.stacksimplify.com/courses/1114628/lectures/23871151)
+  - [List video CloudFormation - VietAWS](https://www.youtube.com/watch?v=xLpsZFVuNZY&list=PL4NoNM0L1m71mrQ2fR_WtLGqOBc0r7T1Q&index=2)
 7. AWS Systems Manager ( Session Manager , Automation, Patch Manager, Parameter Store)
 8. AWS Config & Remediation
 9. AWS CloudTrail works with Amazon CloudWatch
