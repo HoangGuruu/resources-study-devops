@@ -173,9 +173,9 @@
 10. Run a Wordpress website on AWS with decoupling & best practices
 
 # II. AWS Certified DevOps Engineer Professional 2023 - DOP-C02 - Udemy
-1. Course Overview
+1. ✅ Course Overview
 
-2. Code&Slides Download
+2. ✅ Code&Slides Download
 
 3. Domain 1: SDLC Automation
 
