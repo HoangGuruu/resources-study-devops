@@ -151,6 +151,7 @@
 3. [AWS VPC Transit Gateway Hands On Learning - STACKSIMPLIFY](https://courses.stacksimplify.com/p/aws-vpc-transit-gateway)
 4. Ansible
 5. Terraform
+6. Kubenetes : https://kubecampus.io/
 
 ### 2.4.2. Lab AWS Hands-on
 
