@@ -25,6 +25,14 @@
 
 ### 2.1.5 [AWS WorkShop](https://workshops.aws/)
 
+### 2.1.6 [AWS Educate](https://www.awseducate.com/student/s/)
+
+### 2.1.7 [AWSomeday/ AWS Webinar](https://resources.awscloud.com/awsome-day-online-conference)
+
+### 2.1.8 [DevOps Copilot](https://devopscopilot.com/?fbclid=IwAR04vWln2GWjpQqej0W9CRT1eRzsy5-oM-aXWDM3MRgVLr7S2h6_QydDgc4)
+
+### 2.1.9 [AWS Cloudjourney- AWS CERTIFIED SOLUTIONS ARCHITECT - ASSOCIATE EXAM NOTES](https://awsfirstcloudjourney.github.io/3-serverless/)
+
 1. [AWS CloudFormation Workshop](https://catalog.workshops.aws/cfn101/en-US/prerequisites/local-development)
 
 ## 2.2 [90DayofDevOps](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day01.md)
