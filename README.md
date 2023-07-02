@@ -187,6 +187,10 @@
 9. Build an application with CloudFront, S3, Route53, ACM
 10. Run a Wordpress website on AWS with decoupling & best practices
 
+### Combine to do Project
+1. DevOps-Jenkins-CI/CD-with-GitHub-Integration-use-EC2-Ubuntu & Docker
+2. Deploying a Live Project by NGINX for DevOps Engineers
+
 # II. AWS Certified DevOps Engineer Professional 2023 - DOP-C02 - Udemy
 
 ## [Source for detail and Learn](https://github.com/HoangGuruu/DevOps-Exam-Readiness-AWS-Certified-DevOps-Engineer-Professional)
