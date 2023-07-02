@@ -1,4 +1,4 @@
-# I. [RoadMap](https://roadmap.sh/devops) ✅
+# I. ✅ [RoadMap](https://roadmap.sh/devops) 
 
 # II. Link of necessary Source I learned
 
@@ -16,12 +16,12 @@
 
 ### 2.1.3 AWS Cloudquest
 
-1. AWS Cloudquest cloud practioner ✅
+1. ✅ AWS Cloudquest cloud practioner 
 2. ...
 3. 
 
 ### 2.1.4 Coursera AWS 
-1. [DevOps on AWS](https://www.coursera.org/specializations/aws-devops)
+1. ✅ [DevOps on AWS](https://www.coursera.org/specializations/aws-devops)
 
 ### 2.1.5 [AWS WorkShop](https://workshops.aws/)
 
