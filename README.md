@@ -47,7 +47,7 @@
 - Day 6 ✅ DevOps - The real stories
 - Day 7 ✅ The Big Picture: DevOps & Learning a Programming Language
 - Day 8   Setting up your DevOps environment for Go & Hello World
-- Day 9   Let's explain the Hello World code 
+- Day 9   Let's explain the Hello World code ------ [Resource to learn](https://www.w3schools.com/go/)
 - Day 10  The Go Workspace
 - Day 11  Variables & Constants in Go
 - Day 12  Getting user input with Pointers and a finished program
