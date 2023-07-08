@@ -119,7 +119,7 @@
 
 ### 2.4.1. 20 Lab DevOps Hands-on for exam certificated
 
-1. AWS CodePipeline( CodeCommit, CodeBuild, CodeDeploy)
+1. ✅ AWS CodePipeline( CodeCommit, CodeBuild, CodeDeploy)
    - Source
     + [Name of project]()
 2. AWS Elastic Beanstalk
