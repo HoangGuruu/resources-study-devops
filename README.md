@@ -157,6 +157,7 @@
 1. [Docker for Absolute Beginners - STACKSIMPLIFY](https://courses.stacksimplify.com/p/docker-for-absolute-beginners)
 2. [Kubernetes for Absolute Beginners on AWS EKS - STACKSIMPLIFY](https://courses.stacksimplify.com/p/kubernetes-for-absolute-beginners-on-aws-eks)
   - ✅ [Kubernetes Explained for DevOps Enginners](https://www.youtube.com/watch?v=FqfoDUhzyDo&list=PL16dpeBne9TC6FWqB6kc7a5CiIcS2vXiX&index=96)
+  - [Deploy a Reddit Clone with Kubernetes Ingress](https://www.youtube.com/watch?v=9tl0A_rwgu4&list=PL16dpeBne9TC6FWqB6kc7a5CiIcS2vXiX&index=95)
 3. [AWS VPC Transit Gateway Hands On Learning - STACKSIMPLIFY](https://courses.stacksimplify.com/p/aws-vpc-transit-gateway)
 4. Ansible
 5. Terraform
