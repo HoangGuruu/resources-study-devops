@@ -115,7 +115,7 @@
 -  25-30 question
 -  30-35 question
 -  35-40 question
-
+### 2.3.2 [Amazon AWS Certified Solutions Architect - Associate SAA-C03 Exam Practice Questions](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/view/)
 ## 2.4 Hands-on DevOps
 
 ### 2.4.1. 20 Lab DevOps Hands-on for exam certificated
