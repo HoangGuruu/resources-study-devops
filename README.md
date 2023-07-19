@@ -200,6 +200,7 @@
 
 ## 2.5. Complete DevOps Zero to Hero - Abhishek.V
 ### [Link](https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)
+1. Day-1 | Fundamentals of DevOps
 
 # II. AWS Certified DevOps Engineer Professional 2023 - DOP-C02 - Udemy
 
