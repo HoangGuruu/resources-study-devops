@@ -198,6 +198,9 @@
 1. ✅ DevOps-Jenkins-CI/CD-with-GitHub-Integration-use-EC2-Ubuntu & Docker
 2. 
 
+## 2.5. Complete DevOps Zero to Hero - Abhishek.V
+### [Link](https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)
+
 # II. AWS Certified DevOps Engineer Professional 2023 - DOP-C02 - Udemy
 
 ## [Source for detail and Learn](https://github.com/HoangGuruu/DevOps-Exam-Readiness-AWS-Certified-DevOps-Engineer-Professional)
