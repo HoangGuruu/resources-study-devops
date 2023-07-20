@@ -202,6 +202,12 @@
 ### [Link](https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)
 1. Day-1 | Fundamentals of DevOps
 
+## 2.6. Source for Explore : [5 Github Project giúp bạn trở thành một DevOps Enginner tốt hơn](https://shareprogramming.net/5-github-project-giup-ban-tro-thanh-mot-devops-enginner-tot-hon/#The_book_of_secret_knowledge)
+1 The book of secret knowledge
+2 [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+3 [DevOps Exercises](https://github.com/bregman-arie/devops-exercises/tree/master/topics/aws)
+4 [Test your sysadmin skills](https://github.com/trimstray/test-your-sysadmin-skills#simple-questions)
+5 [How they SRE](https://github.com/upgundecha/howtheysre)
 # II. AWS Certified DevOps Engineer Professional 2023 - DOP-C02 - Udemy
 
 ## [Source for detail and Learn](https://github.com/HoangGuruu/DevOps-Exam-Readiness-AWS-Certified-DevOps-Engineer-Professional)
