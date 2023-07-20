@@ -1,6 +1,6 @@
 # I. ✅ [RoadMap](https://roadmap.sh/devops) 
 
-# II. Link of necessary Source I learned
+# II. Link of necessary Source I learned 
 
 ## 2.1 AWS
 
