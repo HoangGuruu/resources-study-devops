@@ -203,11 +203,16 @@
 1. Day-1 | Fundamentals of DevOps
 
 ## 2.6. Source for Explore : [5 Github Project giúp bạn trở thành một DevOps Enginner tốt hơn](https://shareprogramming.net/5-github-project-giup-ban-tro-thanh-mot-devops-enginner-tot-hon/#The_book_of_secret_knowledge)
-1 The book of secret knowledge
-2 [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
-3 [DevOps Exercises](https://github.com/bregman-arie/devops-exercises/tree/master/topics/aws)
-4 [Test your sysadmin skills](https://github.com/trimstray/test-your-sysadmin-skills#simple-questions)
-5 [How they SRE](https://github.com/upgundecha/howtheysre)
+1. The book of secret knowledge
+2. [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+3. [DevOps Exercises](https://github.com/bregman-arie/devops-exercises/tree/master/topics/aws)
+4. [Test your sysadmin skills](https://github.com/trimstray/test-your-sysadmin-skills#simple-questions)
+5. [How they SRE](https://github.com/upgundecha/howtheysre)
+
+## 2.7. FREE DEVOPS BOOTCAMP - Praveen Singampalli
+1. FREE DEVOPS BOOTCAMP 1 - [Link](https://www.youtube.com/watch?v=b3DXnnqTqt4&list=PLj-3PZlPbUVQpAoZ3jdnj17LzUbABb9nV&index=3&t=5s)
+2. FREE DEVOPS BOOTCAMP 2 - [Link](https://www.youtube.com/watch?v=fS_hfNV5wEQ&list=PLj-3PZlPbUVThOSi1QRqNQoTlE04Kl4zN&index=1&t=1s)
+3. FREE DEVOPS BOOTCAMP 3 - [Link](https://www.youtube.com/playlist?list=PLj-3PZlPbUVSmzgra20gyK6GNiZKY2X43)
 # II. AWS Certified DevOps Engineer Professional 2023 - DOP-C02 - Udemy
 
 ## [Source for detail and Learn](https://github.com/HoangGuruu/DevOps-Exam-Readiness-AWS-Certified-DevOps-Engineer-Professional)
