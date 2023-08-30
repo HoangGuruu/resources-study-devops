@@ -1,3 +1,4 @@
+![Image-Banner](https://github.com/HoangGuruu/resources-study-devops/assets/111829092/b1e6c967-6725-40d8-8734-2e2587983e65)
 # Introduction
 This is my resource for me to learn DevOps. You can tutorial and fork it. I will update frequently.
 # RoadMap 
