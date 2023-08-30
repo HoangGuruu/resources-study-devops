@@ -1,30 +1,40 @@
 # Introduction
 This is my resource for me to learn DevOps. You can tutorial and fork it. I will update frequently.
-# RoadMap - [Link](https://roadmap.sh/devops)  
+# RoadMap 
+- [Link](https://roadmap.sh/devops)  
 
 # I. AWS for DevOps
-## 1. AWS Documentation - [Link](https://docs.aws.amazon.com/)
-## 2. AWS Hands-On      - [Link](https://aws.amazon.com/getting-started/hands-on/)
+## 1. AWS Documentation 
+- [Link](https://docs.aws.amazon.com/)
+## 2. AWS Hands-On      
+- [Link](https://aws.amazon.com/getting-started/hands-on/)
 ## 3. AWS Skill builder
 `Some course recommend`
-1. Exam Readiness: AWS Certified DevOps Engineer – Professional - [Link](https://explore.skillbuilder.aws/learn/course/74/play/498/exam-readiness-aws-certified-devops-engineer-professional;lp=85)
+1. Exam Readiness: AWS Certified DevOps Engineer – Professional 
+- [Link](https://explore.skillbuilder.aws/learn/course/74/play/498/exam-readiness-aws-certified-devops-engineer-professional;lp=85)
 
 ## 4. AWS Cloudquest
 `Some course recommend`
 1. AWS Cloudquest cloud practioner - Free
 
-## 5. AWS on Coursera        - [Link](https://www.coursera.org/specializations/aws-devops)
+## 5. AWS on Coursera        
+- [Link](https://www.coursera.org/specializations/aws-devops)
 `You can take a beginner certification`
 
-## 6. AWS WorkShop           - [Link](https://workshops.aws/)
+## 6. AWS WorkShop           
+- [Link](https://workshops.aws/)
 
-## 7. AWS Educate            - [Link](https://www.awseducate.com/student/s/)
+## 7. AWS Educate            
+- [Link](https://www.awseducate.com/student/s/)
 
-## 8. AWSomeday/ AWS Webinar - [Link](https://resources.awscloud.com/awsome-day-online-conference)
+## 8. AWSomeday/ AWS Webinar 
+- [Link](https://resources.awscloud.com/awsome-day-online-conference)
 
-## 9. DevOps Copilot         - [Link](https://devopscopilot.com/?fbclid=IwAR04vWln2GWjpQqej0W9CRT1eRzsy5-oM-aXWDM3MRgVLr7S2h6_QydDgc4)
+## 9. DevOps Copilot         
+- [Link](https://devopscopilot.com/?fbclid=IwAR04vWln2GWjpQqej0W9CRT1eRzsy5-oM-aXWDM3MRgVLr7S2h6_QydDgc4)
 
-## 10. AWS Cloudjourney - AWS CERTIFIED SOLUTIONS ARCHITECT - ASSOCIATE EXAM NOTES - [Link](https://awsfirstcloudjourney.github.io/3-serverless/)
+## 10. AWS Cloudjourney - AWS CERTIFIED SOLUTIONS ARCHITECT - ASSOCIATE EXAM NOTES 
+- [Link](https://awsfirstcloudjourney.github.io/3-serverless/)
 
 
 ## 2.2 [90DayofDevOps](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day01.md)
