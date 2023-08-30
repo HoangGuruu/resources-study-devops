@@ -5,8 +5,7 @@
  <p align="center">This is my resource for me to learn DevOps. You can tutorial and fork it. I will update frequently. </p>
 </p>
 
-# RoadMap 
-- [Link](https://roadmap.sh/devops)  
+# [RoadMap](https://roadmap.sh/devops)  
 
 # I. AWS for DevOps
 ## 1. AWS Documentation 
