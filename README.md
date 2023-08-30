@@ -5,7 +5,19 @@
  <p align="center">This is my resource for me to learn DevOps. You can tutorial and fork it. I will update frequently. </p>
 </p>
 
+# Table of Content
+[I.   AWS for DevOps](#awsfordevops)
+[II.  Resourse on Github](#resourceongithub)
+[III. Resourse on Web](#resourceonweb)
+[IV.  Resource on Youtube](#resourceonyoutube)
+[V.   Udemy for DevOps](#udemyfordevops)
+
+
+[II. Ngôn ngữ Markdown](#ngonngumarkdown)
+
+
 [RoadMap](https://roadmap.sh/devops)  
+<a name="awsfordevops"></a>
 
 # I. AWS for DevOps
 ## 1. AWS Documentation 
@@ -40,6 +52,8 @@
 ## 10. AWS Cloudjourney - AWS CERTIFICATED SOLUTIONS ARCHITECT - ASSOCIATE EXAM NOTES 
 - [Link](https://awsfirstcloudjourney.github.io/3-serverless/)
 
+<a name="resourceongithub"></a>
+
 # II. Resourse on Github
 ## 1. 90DayofDevOps
 - [Link](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day01.md)
@@ -52,6 +66,8 @@
 ## 5. How they SRE
 - [Link](https://github.com/upgundecha/howtheysre)
 
+<a name="resourceonweb"></a>
+
 # III. Resourse on Web
 ## 1. Examtopic 
 - [Link](https://www.examtopics.com/exams/amazon/aws-devops-engineer-professional/view/3/)
@@ -62,7 +78,11 @@
 - [Link](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/view/)
 
 ## 2. ChatGPT
+## 3. STACKSIMPLIFY
+## 4. Kubecampus
+- [Link](https://kubecampus.io/)
 
+<a name="resourceonyoutube"></a>
 
 # IV. Resource on Youtube
 # - Vietnamese
@@ -84,10 +104,9 @@
 - [Link](https://www.youtube.com/playlist?list=PLj-3PZlPbUVSmzgra20gyK6GNiZKY2X43)
 
 
-STACKSIMPLIFY
-6. Kubenetes : https://kubecampus.io/
 
 
+<a name="udemyfordevops"></a>
 
 # V. Udemy for DevOps
 `Recommended Course`
