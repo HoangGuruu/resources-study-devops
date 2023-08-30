@@ -64,7 +64,7 @@
 ## 2. ChatGPT
 
 
-# IV. Resource on Youtube 2.4.1. 20 Lab DevOps Hands-on for exam certificated
+# IV. Resource on Youtube
 # - Vietnamese
 ## 1. Viet Tran - VietNamese
 - [Link](https://www.youtube.com/@Viet100)
