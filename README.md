@@ -6,11 +6,11 @@
 </p>
 
 # Table of Content
-[I.   AWS for DevOps](#awsfordevops)
-[II.  Resourse on Github](#resourceongithub)
-[III. Resourse on Web](#resourceonweb)
-[IV.  Resource on Youtube](#resourceonyoutube)
-[V.   Udemy for DevOps](#udemyfordevops)
+- [I.   AWS for DevOps](#awsfordevops)
+- [II.  Resourse on Github](#resourceongithub)
+- [III. Resourse on Web](#resourceonweb)
+- [IV.  Resource on Youtube](#resourceonyoutube)
+- [V.   Udemy for DevOps](#udemyfordevops)
 
 
 [II. Ngôn ngữ Markdown](#ngonngumarkdown)
