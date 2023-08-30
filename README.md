@@ -37,7 +37,7 @@
 ## 9. DevOps Copilot         
 - [Link](https://devopscopilot.com/?fbclid=IwAR04vWln2GWjpQqej0W9CRT1eRzsy5-oM-aXWDM3MRgVLr7S2h6_QydDgc4)
 
-## 10. AWS Cloudjourney - AWS CERTIFIED SOLUTIONS ARCHITECT - ASSOCIATE EXAM NOTES 
+## 10. AWS Cloudjourney - AWS CERTIFICATED SOLUTIONS ARCHITECT - ASSOCIATE EXAM NOTES 
 - [Link](https://awsfirstcloudjourney.github.io/3-serverless/)
 
 
