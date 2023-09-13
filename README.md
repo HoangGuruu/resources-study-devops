@@ -93,7 +93,15 @@
 # - English
 ## 1. Abhishek.Veeramalla
 - [Link](https://www.youtube.com/@AbhishekVeeramalla)
-
+`List video recommend`
+1. AWS Zero to Hero
+- [Link]()
+2. Terraform Zero to Hero
+- [Link]()
+3. 
+- [Link]()
+4. 
+- [Link]()
 ## 2. Praveen Singampalli
 `List video recommend`
 - [Link](https://www.youtube.com/@AbhishekVeeramalla)
@@ -104,6 +112,8 @@
 3. FREE DEVOPS BOOTCAMP 3 
 - [Link](https://www.youtube.com/playlist?list=PLj-3PZlPbUVSmzgra20gyK6GNiZKY2X43)
 
+## 3. 
+- [Link](https://www.youtube.com/@AbhishekVeeramalla)
 
 
 
@@ -115,3 +125,8 @@
 - [Link]()
 - [Link github](https://github.com/HoangGuruu/DevOps-Exam-Readiness-AWS-Certified-DevOps-Engineer-Professional)
 
+2. 20 Real Project DevOps
+- [Link]()
+
+3. PROJECT SHOPPING
+- [Link]()
