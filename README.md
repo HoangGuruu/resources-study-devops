@@ -124,6 +124,12 @@
 1. Battle of Services
 - [Link](https://www.youtube.com/playlist?list=PL5aURjJ6mdUc6TPaLzpRq_BmGNa_94hGe)
 
+## 4. Learn Linux TV
+- [Link](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)
+`List video recommend`
+1. Getting started with Ansible
+- [Link](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)
+
 <a name="udemyfordevops"></a>
 
 # V. Udemy for DevOps
