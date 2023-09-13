@@ -130,6 +130,21 @@
 1. Getting started with Ansible
 - [Link](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)
 
+## 5. Devops and Cloud Computing Training
+- [Link](https://www.youtube.com/watch?v=nRZx2jccK1I&list=PLw2O1KZPQDGbuKyzHNxhmUHvLCd_3adg8&pp=iAQB)
+`List video recommend`
+1. AWS CI/CD pipeline with Kubernetes, VPN and Domain Controller
+- [Link](https://www.youtube.com/watch?v=nRZx2jccK1I&list=PLw2O1KZPQDGbuKyzHNxhmUHvLCd_3adg8&ab_channel=DevopsandCloudComputingTraining)
+2. AWS and DevOps
+- [Link](https://www.youtube.com/playlist?list=PLw2O1KZPQDGZccK_f_hhxnykl9UgDfmgD)
+
+## 6. Just me and Opensource
+- [Link](https://www.youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0)
+`List video recommend`
+1. Learn Kubernetes
+- [Link](https://www.youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0)
+
+
 <a name="udemyfordevops"></a>
 
 # V. Udemy for DevOps
