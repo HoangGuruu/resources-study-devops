@@ -84,6 +84,11 @@
 # - Vietnamese
 ## 1. Viet Tran - VietNamese
 - [Link](https://www.youtube.com/@Viet100)
+`List video recommend`
+1. Amazon ECS Full Course
+- [Link](https://www.youtube.com/playlist?list=PL4NoNM0L1m70lB1qL6sJ9Xr43PVbua3u2)
+2. AWS Automation - DevSecOps
+- [Link](https://www.youtube.com/playlist?list=PL4NoNM0L1m70huZsFtwCrqIB-ItZNNY2a)
 
 # - English
 ## 1. Abhishek.Veeramalla
