@@ -98,7 +98,7 @@
 - [Link]()
 2. Terraform Zero to Hero
 - [Link]()
-3. 
+3. Complete DevOps Zero to Hero
 - [Link]()
 4. 
 - [Link]()
@@ -144,6 +144,37 @@
 1. Learn Kubernetes
 - [Link](https://www.youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0)
 
+## 7. DevOps Toolkit
+
+## 8. Prashant Lakhera
+`List video recommend`
+1. Python for DevOps
+- [Link](https://www.youtube.com/playlist?list=PLckUzKjgYDgaMCzGIvdcyOlcUTx1sBBtR)
+
+## 9. TrainWithShubham
+`List video recommend`
+1. DevOps Bootcamp - Live Project
+- [Link](https://www.youtube.com/playlist?list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u)
+
+## 10. Mr. DevOps
+`List video recommend`
+1. Real-time Kubernetes Complete DevOps Project Series
+- [Link](https://www.youtube.com/playlist?list=PLLu1bCv5AByGUZUl4N2fhZdtHg0pd7G8E)
+
+## 11. Stack Simplify
+`List video recommend`
+1. AWS EKS Kubernetes Masterclass
+- [Link](https://www.youtube.com/playlist?list=PLLh98oBzdb7YLnm-67RnNIjrD98g1w2js)
+
+## 12. Learn with GVR
+`List video recommend`
+1. Certified Kubernetes Security Specialist (CKS)
+- [Link](https://www.youtube.com/playlist?list=PLFkEchqXDZx6Bw3B2NRVc499j1TavjOvm)
+
+## 13. Bret Fisher Docker and DevOps 
+`List video recommend`
+1. DevOps and Docker Talk Live
+- [Link](https://www.youtube.com/playlist?list=PLX0bTycx8m-UhIXY2c4-7AXaEokaTdn6S)
 
 <a name="udemyfordevops"></a>
 
