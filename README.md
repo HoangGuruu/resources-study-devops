@@ -78,6 +78,9 @@
 ## 4. Kubecampus
 - [Link](https://kubecampus.io/)
 
+## 5. ITExam
+- [Link](https://exam.teamv.io/current-exam)
+
 <a name="resourceonyoutube"></a>
 
 # IV. Resource on Youtube
@@ -175,6 +178,16 @@
 `List video recommend`
 1. DevOps and Docker Talk Live
 - [Link](https://www.youtube.com/playlist?list=PLX0bTycx8m-UhIXY2c4-7AXaEokaTdn6S)
+
+## 14. YOUR DevOps Recruiter
+`List video recommend`
+1. How to Break Into DevOps
+- [Link](https://www.youtube.com/playlist?list=PLQIAaZ3Em209bCJsCMiLqi0nCWMDuu8ge)
+
+## 15. Be A Better Dev
+`List video recommend`
+1. Real Life AWS Project Architectures
+- [Link](https://www.youtube.com/playlist?list=PL9nWRykSBSFgPhu5u5-ci5U45OOO9np5q)
 
 <a name="udemyfordevops"></a>
 
