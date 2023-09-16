@@ -188,6 +188,13 @@
 `List video recommend`
 1. Real Life AWS Project Architectures
 - [Link](https://www.youtube.com/playlist?list=PL9nWRykSBSFgPhu5u5-ci5U45OOO9np5q)
+2. AWS Videos to Watch for Backend Developers
+- [Link](https://www.youtube.com/playlist?list=PL9nWRykSBSFhWuF7OOU4NYvVwlawbKaEO)
+
+## 16. LogicOps Lab
+`List video recommend`
+1. DevOps Real Time Projects - Project 4 - DevSecOps Project
+- [Link](https://www.youtube.com/playlist?list=PL8WTXLSrtyWpICWv6hcdM2i9iU10Zi4F7)
 
 <a name="udemyfordevops"></a>
 
