@@ -81,6 +81,9 @@
 ## 5. ITExam
 - [Link](https://exam.teamv.io/current-exam)
 
+## 6. TEL4VN
+- [Link](https://tel4vn.edu.vn/blog-category/tu-hoc-devops/)
+
 <a name="resourceonyoutube"></a>
 
 # IV. Resource on Youtube
